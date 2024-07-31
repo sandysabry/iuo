@@ -1,0 +1,285 @@
+body{
+
+height: 800px;
+}
+.jl{
+	background-color: indigo;
+	height: 560px;
+}
+.reb{
+	display: flex;
+	justify-content: space-around;
+	
+}
+.loop{
+	color: white;
+}
+.poo{
+	margin-top: 30px;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	padding-left: 30px;
+	color: white;
+}
+.nn{
+	margin-top: 10px;
+}
+
+	.nn{
+		display: flex;
+		background-color: white; /* لون الخلفية */
+		color: black; /* لون النص */
+		height: 10px;
+	    padding: 20px 20px;
+		border: 1px solid rebeccapurple; /* إزالة الحدود الافتراضية */
+		border-radius: 70px; /* منحنيات الحواف */
+		text-align: center; /* محاذاة النص في الوسط */
+		text-decoration: none; /* إزالة التسطير تحت النص */
+		display: flex; /* عرض الزر */
+		font-size: 16px; /* حجم الخط */
+	
+		transition:  0.3s; /* تأثير الانتقال عند التغيير */
+	}
+	.fa-solid{
+		margin-left: 20px;
+	}
+	.gg{
+		background-image: url(imeg/logo.png);
+		width: 1220px;
+		margin-left: 10px;
+		height: 450px;
+		border-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+        }
+		.oo{
+		margin-right: 100px;
+			margin-left: 0px;
+			background-color: mediumpurple;
+			border-radius: 20px;
+			width: 140px;
+			display: flex;
+			border: solid gray;
+			padding: 5px ;
+		}
+.rr{
+	margin-left: 80px;
+	margin-top: 60px;
+}
+.sa{
+	margin-left: 150px;
+	margin-top: 50px;
+}
+   .ws{
+	display: flex;
+		background-color: white; /* لون الخلفية */
+		color: black; /* لون النص */
+		height: 10px;
+		width: 150px;
+		padding: 20px 20px;
+		border: 1px solid rebeccapurple; /* إزالة الحدود الافتراضية */
+		border-radius: 70px; /* منحنيات الحواف */
+		text-align: center; /* محاذاة النص في الوسط */
+		text-decoration: none; /* إزالة التسطير تحت النص */
+		display: flex; /* عرض الزر */
+		font-size: 16px; /* حجم الخط */
+	margin-right: 10px;
+		transition:  0.3s; /* تأثير الانتقال عند التغيير */
+	}
+
+	.cc{
+
+		background-color:darkblue ;
+		height: 1000px;
+		margin-top: 100px;
+	}
+	.ju{
+		display: flex;
+	}
+	.ww{
+		display: flex;
+		justify-content: space-around;
+		border: 1px solid mediumpurple;
+		margin-top: 100px;
+		margin-left: 90px;
+		width:1100px;
+		border-radius: 30px;
+	}
+	.qq{
+		color: white;
+	}
+	.io{
+		margin-top: 20px;
+	}
+.aa{
+	color: white;
+}
+.lpk{
+	margin-top: 100px;
+	color: white;
+	margin-left: 60px;
+}
+.hu{
+	border: 1px solid mediumpurple;
+	width: 1150px;
+	margin-left: 40px;
+}
+.kjh{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 50px;
+}
+.pop{
+	background-color: white;
+	color: black;
+border: 1px soild white;
+width: 50px;
+height: 30px;
+padding-left: 20px;
+padding-top: 5px;
+border-radius: 17px;
+}
+.mnp{
+	border: 1px solid white;
+	color: white;
+	width: 170px;
+	border-radius: 17px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.mnt{
+	border: 1px solid white;
+	color: white;
+	width: 140px;
+	border-radius: 17px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.mno{
+	border: 1px solid white;
+	color: white;
+	width: 60px;
+	border-radius: 17px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.mnl{
+	border: 1px solid white;
+	color: white;
+	width: 100px;
+	border-radius: 17px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.mns{
+	border: 1px solid white;
+	color: white;
+	width: 140px;
+	border-radius: 17px;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+
+.man{
+	display: flex;
+}
+.ert{
+	border: 1px solid mediumpurple;
+	width: 300px;
+	height: 350px;
+border-radius: 20px;
+margin-left: 90px;
+margin-top: 60px;
+}
+.ret{
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+.ghg{
+border: 1px solid mediumorchid;
+width: 300px;
+
+}
+h4{
+	color: white;
+	margin-left: 20px;
+	font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.uio{
+	display: flex;
+	justify-content:space-around ;
+}
+.bd{
+	color: gray;
+	display: flex;
+}
+.bi{
+	padding-top: 20px;
+	color: mediumpurple;
+}
+
+.jll{
+	background-color: indigo;
+	margin-top: 100px;
+	height: 1000px;
+}
+.ggg{
+	background-image: url(imeg/logo.png);
+		width: 1220px;
+		margin-left: 10px;
+		height: 700px;
+		border-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.be{
+	color: white;
+}
+.fa-solid{
+	margin-left: 570px;
+	color: mediumpurple;
+	font-size: 100px;
+}
+.vib{
+	display: block;
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 90px;
+	font-size: 20px;
+}
+.sdf{
+	display: block;
+	margin-left: 550px;
+	margin-top: 80px;
+	border-radius: 300px;
+	width: 120px;
+}
+.bn{
+	display: flex;
+justify-content: space-between;
+}
+.biw{
+	margin-left: 1000px;
+	color: mediumpurple;
+}
+.bik{
+	margin-left: 60px;
+	color: mediumpurple;
+}
+.vcx{
+	color: mediumpurple;
+	margin-left: 520px;
+}
+h3{
+	color: white;
+	margin-left: 560px;
+
+}
